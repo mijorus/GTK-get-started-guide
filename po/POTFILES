@@ -1,0 +1,7 @@
+data/it.mijorus.gtk_getstarted.desktop.in
+data/it.mijorus.gtk_getstarted.appdata.xml.in
+data/it.mijorus.gtk_getstarted.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=get-started-guide
+Exec=get-started-guide
+Icon=it.mijorus.gtk_getstarted
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
